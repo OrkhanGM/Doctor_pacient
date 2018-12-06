@@ -1,0 +1,7 @@
+C:\Users\Orxan\Desktop\doctor_pacient-master\doctor_pacient\bin\Debug\doctor_pacient.exe.config
+C:\Users\Orxan\Desktop\doctor_pacient-master\doctor_pacient\bin\Debug\doctor_pacient.exe
+C:\Users\Orxan\Desktop\doctor_pacient-master\doctor_pacient\bin\Debug\doctor_pacient.pdb
+C:\Users\Orxan\Desktop\doctor_pacient-master\doctor_pacient\obj\Debug\doctor_pacient.csprojAssemblyReference.cache
+C:\Users\Orxan\Desktop\doctor_pacient-master\doctor_pacient\obj\Debug\doctor_pacient.csproj.CoreCompileInputs.cache
+C:\Users\Orxan\Desktop\doctor_pacient-master\doctor_pacient\obj\Debug\doctor_pacient.exe
+C:\Users\Orxan\Desktop\doctor_pacient-master\doctor_pacient\obj\Debug\doctor_pacient.pdb
